@@ -22,5 +22,5 @@
 </p>
 
 ```
-git clone https://github.com/Ibrohim-farsi/remont-offis.git
+git clone https://github.com/Ibrohim-farsi/urelocation.git
 ```
